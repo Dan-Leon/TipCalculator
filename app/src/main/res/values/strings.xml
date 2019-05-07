@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount_hint">Enter bill amount</string>
+    <string name="meal_cost_hint">Meal Cost</string>
+    <string name="calculate_bttn">Calculate tip</string>
+    <string name="total_txt">Total Cost</string>
+    <string name="img_descr">Tip your server</string>
+    <string name="tip_txt">Tip: $</string>
+    <string-array name="txtGroup">
+        <item>\t5%</item>
+        <item>\t10%</item>
+        <item>\t15%</item>
+        <item>\t20%</item>
+        <item>\t25%</item>
+    </string-array>
+
+</resources>
